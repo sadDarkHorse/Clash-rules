@@ -1,0 +1,14 @@
+# 走美国的
+
+# Google
+DOMAIN-SUFFIX,bard.google.com
+
+# OpenAi
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,ai.com
+
+# Microsoft
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msn.cn
